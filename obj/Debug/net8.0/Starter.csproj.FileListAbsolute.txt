@@ -1,0 +1,14 @@
+D:\Users\saswavlo\Desktop\CsharpProjects\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+D:\Users\saswavlo\Desktop\CsharpProjects\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\Users\saswavlo\Desktop\CsharpProjects\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\Users\saswavlo\Desktop\CsharpProjects\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+D:\Users\saswavlo\Desktop\CsharpProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\saswavlo\Desktop\CsharpProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\Users\saswavlo\Desktop\CsharpProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+D:\Users\saswavlo\Desktop\CsharpProjects\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll
